@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "ACAA,AAAA,MAAM,CAAA;EACF,gBAAgB,EAAE,IAAI;CACzB",
+    "mappings": "ACAA,AAAA,MAAM,CAAA;EACF,gBAAgB,EAAE,IAAI;CACzB;;AGFD,AAAA,iBAAiB,CAAA;EACb,SAAS,EAAE,MAAM;EACjB,MAAM,EAAE,IAAI;EACZ,SAAS,EAAE,KAAK;CACnB",
     "sources": [
         "style.scss",
         "gopal.scss",
